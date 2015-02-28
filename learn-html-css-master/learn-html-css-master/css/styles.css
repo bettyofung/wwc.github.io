@@ -1,0 +1,19 @@
+img {
+  border: 2px solid black;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  border-bottom: 1px solid black;
+}
+
+a {
+  color: magenta;
+}
+
+li {
+  list-style-type: square;
+}
